@@ -1,0 +1,16 @@
+{
+    "idf.currentSetup": "c:\\Espressif\\frameworks\\esp-idf-v5.5.1\\v5.5.1\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32c6-builtin.cfg"
+    ],
+    "idf.customExtraVars": {
+        "OPENOCD_USB_ADAPTER_LOCATION": "3-1",
+        "IDF_TARGET": "esp32c6"
+    },
+    "clangd.path": "C:\\Espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
+    "clangd.arguments": [
+      "--background-index",
+      "--query-driver=**",
+      "--compile-commands-dir=c:\\Users\\DELL\\esp32c6_testbed\\node_a_sender\\build"
+    ]
+}

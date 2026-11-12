@@ -1,0 +1,2 @@
+source C:/Users/DELL/esp32c6_testbed/node_b_receiver/build/bootloader/gdbinit/symbols
+source C:/Users/DELL/esp32c6_testbed/node_b_receiver/build/bootloader/gdbinit/connect

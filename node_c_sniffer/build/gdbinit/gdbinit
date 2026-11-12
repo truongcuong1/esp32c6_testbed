@@ -1,0 +1,2 @@
+source C:/Users/DELL/esp32c6_testbed/node_c_sniffer/build/gdbinit/symbols
+source C:/Users/DELL/esp32c6_testbed/node_c_sniffer/build/gdbinit/connect
